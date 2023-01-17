@@ -13,5 +13,8 @@ Password Generator menggunakan teknologi dari Javascript.
 # Contoh
 Bisa dilihat disini > https://secgoh.github.io/pwdgen.
 
+# Lainnya
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/secgoh/pwdgen">
+
 # Terima Kasih
 Karena telah mengunjungi situs ini.
