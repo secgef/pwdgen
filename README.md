@@ -1,4 +1,4 @@
-# pwdgen
+# Pwdgen (Password Generator)
 Password Generator menggunakan teknologi dari Javascript.
 
 # Cara penggunaan
