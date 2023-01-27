@@ -11,7 +11,7 @@ Password Generator menggunakan teknologi dari Javascript.
 - Bisa digunakan untuk membuat kata sandi sosial media, bahkan bank.
 
 # Contoh
-Bisa dilihat disini > https://secgoh.github.io/pwdgen.
+Bisa dilihat disini > https://secgef.github.io/pwdgen.
 
 # Lainnya
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/secgoh/pwdgen">
